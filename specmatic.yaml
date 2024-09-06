@@ -1,0 +1,6 @@
+sources:
+  - provider: git
+    repository: https://github.com/kuldeeptyagi83/contract-testing-specmatric.git
+    provides:
+      - employees.yaml
+      - service.yaml
